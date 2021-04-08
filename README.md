@@ -5,7 +5,9 @@
 包含柱状图、词云、漏斗图
 
 https://zzj714.github.io/homework1-funnel
+
 https://zzj714.github.io/homework1-wordcloud
+
 https://zzj714.github.io/homework2-bar
 
 ## 2.作业2
