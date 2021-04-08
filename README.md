@@ -8,7 +8,7 @@
 
 [作业1-词云](https://zzj714.github.io/homework1-wordcloud)
 
-(https://zzj714.github.io/homework2-bar)
+[作业1-柱状图](https://zzj714.github.io/homework2-bar)
 
 ## 2.作业2
 利用Geo表示G82号列车从长沙到北京路线以及停靠站
