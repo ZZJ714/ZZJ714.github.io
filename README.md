@@ -4,7 +4,7 @@
 对第一次作业中《红楼梦》金陵十二钗词频进行图表分析
 包含柱状图、词云、漏斗图
 
-(https://zzj714.github.io/homework1-funnel)
+[1](https://zzj714.github.io/homework1-funnel)
 
 (https://zzj714.github.io/homework1-wordcloud)
 
